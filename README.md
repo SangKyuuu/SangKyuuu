@@ -9,14 +9,13 @@
 
 <div align="left">
   
-## 👨‍💻 나의 정보
-
-**📧Email**
- : bisunesskyu@gmail.com
+  ## 👨‍💻 나의 정보
+  
+  **📧Email**
+   : bisunesskyu@gmail.com
 
 </div>
 
-<br>
 <br>
 
 <div align="left">
@@ -26,39 +25,39 @@
 <div>
 
   ## 💾 프로젝트
-<table>
-  <tr>
-    <th>작업 기한</th>
-    <th>프로젝트명</th>
-    <th>기술 스택</th>
-    <th>담당 기능</th>
-    <th>링크</th>
-    <th>영상</th>
-  </tr>
-  <tr>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-  </tr>
-  <tr>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-  </tr>
-  <tr>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <th>작업 기한</th>
+      <th>프로젝트명</th>
+      <th>기술 스택</th>
+      <th>담당 기능</th>
+      <th>링크</th>
+      <th>영상</th>
+    </tr>
+    <tr>
+      <td>test</td>
+      <td>test</td>
+      <td>test</td>
+      <td>test</td>
+      <td>test</td>
+      <td>test</td>
+    </tr>
+    <tr>
+      <td>test</td>
+      <td>test</td>
+      <td>test</td>
+      <td>test</td>
+      <td>test</td>
+      <td>test</td>
+    </tr>
+    <tr>
+      <td>test</td>
+      <td>test</td>
+      <td>test</td>
+      <td>test</td>
+      <td>test</td>
+      <td>test</td>
+    </tr>
+  </table>
   
 </div>
