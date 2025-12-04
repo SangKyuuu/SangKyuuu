@@ -27,36 +27,36 @@
   ## 💾 프로젝트
   <table>
     <tr>
-      <th>작업 기한</th>
       <th>프로젝트명</th>
       <th>기술 스택</th>
       <th>담당 기능</th>
       <th>링크</th>
       <th>영상</th>
+      <th>작업 기한</th>
     </tr>
     <tr>
-      <td>2025-11-06 ~ 2025-12-05</td>
       <td>BNK 1차 팀 프로젝트</td>
       <td>Spring boot / MyBatis / Oracle</td>
       <td>로그인, 회원가입, 마이페이지, 고객센터</td>
       <td>link</td>
       <td>link</td>
+      <td>2025-11-06 ~ 2025-12-05</td>
     </tr>
     <tr>
-      <td>2025-10-01 ~ 2025-10-21</td>
       <td>Shoply 프로젝트</td>
       <td>Spring boot / MyBatis / Oracle </td>
       <td>로그인, 회원가입, 상품등록</td>
       <td>link</td>
       <td>link</td>
+      <td>2025-10-01 ~ 2025-10-21</td>
     </tr>
     <tr>
-      <td>2025-09-01 ~ 2025-09-12</td>
       <td>몬스터대학 프로젝트</td>
       <td>Java / JSP / Oracle </td>
       <td>게시판 CRUD</td>
       <td>link</td>
       <td>link</td>
+      <td>2025-09-01 ~ 2025-09-12</td>
     </tr>
   </table>
   
