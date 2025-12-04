@@ -51,12 +51,12 @@
       <td>test</td>
     </tr>
     <tr>
-      <td>test</td>
-      <td>test</td>
-      <td>test</td>
-      <td>test</td>
-      <td>test</td>
-      <td>test</td>
+      <td>2025-09-01 ~ 2025-09-12</td>
+      <td>몬스터대학</td>
+      <td>Spring / JSP </td>
+      <td>게시판 CRUD</td>
+      <td>link</td>
+      <td>link</td>
     </tr>
   </table>
   
