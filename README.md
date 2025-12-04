@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=250&section=header&text=SangKyuuu's%20GitHub&fontSize=60&fontColor=ffffff" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E063,100:56AB2F&height=250&section=header&text=SangKyuuu's%20GitHub&fontSize=60&fontColor=ffffff" width="100%">
   <br>
   <h3>👋 안녕하세요, 끊임없이 성장하는 개발자 최상규입니다.</h3>
   <p>새로운 기술을 배우고 적용하는 것을 즐깁니다.</p>
