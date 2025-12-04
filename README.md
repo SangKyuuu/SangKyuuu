@@ -35,8 +35,8 @@
       <th>영상</th>
     </tr>
     <tr>
-      <td>2025-11-06 ~ 진행중</td>
-      <td>BNK 펀드 프로젝트</td>
+      <td>2025-11-06 ~ 2025-12-05</td>
+      <td>BNK 1차 팀 프로젝트</td>
       <td>Spring boot / MyBatis / Oracle</td>
       <td>로그인, 회원가입, 마이페이지, 고객센터</td>
       <td>link</td>
