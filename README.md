@@ -40,7 +40,7 @@
       <td>로그인, 회원가입, 마이페이지, 고객센터</td>
       <td><a href='https://github.com/SangKyuuu/Shoply-Project'>링크</a></td>
       <td><a>링크</a></td>
-      <td>2025-11-06 ~ 2025-12-05</td>
+      <td>25.11-06 ~ 25.12.05</td>
     </tr>
     <tr>
       <td>Shoply 프로젝트</td>
@@ -48,7 +48,7 @@
       <td>로그인, 회원가입, 상품등록</td>
       <td><a href='https://github.com/SangKyuuu/Shoply-Project'>링크</a></td>
       <td><a>링크</a></td>
-      <td>2025-10-01 ~ 2025-10-21</td>
+      <td>25.10.01 ~ 25.10.21</td>
     </tr>
     <tr>
       <td>몬스터대학 프로젝트</td>
@@ -56,7 +56,7 @@
       <td>게시판 CRUD</td>
       <td><a href='https://github.com/SangKyuuu/MonsterUniv-Project'>링크</a></td>
       <td><a href='https://www.youtube.com/watch?v=UTVsuxLt-o4'>링크</a></td>
-      <td>2025-09-01 ~ 2025-09-12</td>
+      <td>25.09.01 ~ 25.09.12</td>
     </tr>
   </table>
   
