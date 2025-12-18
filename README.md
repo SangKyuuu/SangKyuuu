@@ -39,7 +39,7 @@
       <td>Spring boot / MyBatis / Oracle</td>
       <td>로그인, 회원가입, 마이페이지, 고객센터</td>
       <td><a href='https://github.com/SangKyuuu/busan-bank-project1-team3'>링크</a></td>
-      <td><a>링크</a></td>
+      <td><a href='https://www.youtube.com/watch?v=Fk9cIvPaUGI'>링크</a></td>
       <td>25.11-06 ~ 25.12.05</td>
     </tr>
     <tr>
