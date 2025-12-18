@@ -38,7 +38,7 @@
       <td>BNK 1차 팀 프로젝트</td>
       <td>Spring boot / MyBatis / Oracle</td>
       <td>로그인, 회원가입, 마이페이지, 고객센터</td>
-      <td><a href='https://github.com/SangKyuuu/Shoply-Project'>링크</a></td>
+      <td><a href='https://github.com/SangKyuuu/busan-bank-project1-team3'>링크</a></td>
       <td><a>링크</a></td>
       <td>25.11-06 ~ 25.12.05</td>
     </tr>
