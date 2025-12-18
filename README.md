@@ -35,6 +35,14 @@
       <th>작업 기한</th>
     </tr>
     <tr>
+      <td>BNK 2차 팀 프로젝트</td>
+      <td>Flutter / Spring boot / Oracle</td>
+      <td>모의투자, 투자분석 AI </td>
+      <td><a href='https://github.com/SangKyuuu/team3_flutter'>링크</a></td>
+      <td>링크</td>
+      <td>25.12-08 ~ 진행중</td>
+    </tr>
+    <tr>
       <td>BNK 1차 팀 프로젝트</td>
       <td>Spring boot / MyBatis / Oracle</td>
       <td>로그인, 회원가입, 마이페이지, 고객센터</td>
