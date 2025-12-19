@@ -55,7 +55,7 @@
       <td>Spring boot / MyBatis / Oracle </td>
       <td>로그인, 회원가입, 상품등록</td>
       <td><a href='https://github.com/SangKyuuu/Shoply-Project'>링크</a></td>
-      <td><a>링크</a></td>
+      <td><a href='https://www.youtube.com/watch?v=HTyxtHtE8So'>링크</a></td>
       <td>25.10.01 ~ 25.10.21</td>
     </tr>
     <tr>
